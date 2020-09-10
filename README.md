@@ -1,5 +1,5 @@
-## Project-Assignment-User-Churn
-# Codeflix, a streaming video startup, is interested in measuring their user churn rate. In this project, you’ll be helping them answer these questions about their churn:  
+# Project-Assignment-User-Churn
+## Codeflix, a streaming video startup, is interested in measuring their user churn rate. In this project, you’ll be helping them answer these questions about their churn:  
 1. Get familiar with the company.  
 (a) How many months has the company been operating? Which months do you have enough information to calculate a churn rate? 
 (b) What segments of users exist? 
